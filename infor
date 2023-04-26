@@ -1,0 +1,68 @@
+cd projetosCode\dashboardReactTs\minha-carteira-dashboard-master
+
+++++++++instalar o yarn+++++++
+* site com instalador do yarn mostra qual o comando atual para instalar
+
++++++++++terminal+++++++++++++
+* yarn add styled-components   : "não foi usado esse comando e sim o de baixo"terminal instalar o yarn que seria o mesmo do npm para instalação de bibliotecas js no terminal 
+* npm install --global yarn   :terminal instalar o yarn que seria o mesmo do npm para instalação de bibliotecas js no terminal
+* yarn --version   :mostra a versão do yarn usada e se esta instalado
+* dir   :terminal comando para ver os arquivos na pasta que vc esta
+* npx create-react-app minha-carteira --template typescript   :tendo o node já instalado para poder usar o npx, comando para criar o projeto, junto com ts com --template typescript..
+* yarn add styled-components   :terminal para instalar q permite que você escreva CSS real em seu JavaScript. Isso significa que você pode usar todos os recursos de CSS, OBS:dessa forma não rodou a dependencia usou o comando abaixo
+* yarn add @types/styled-components -D   :typescript força tipagem, comando para styled-components funcionar
+* Yarn add react-switch : botão switch do react dependência switch mais bonito
+* yarn add react-icons   : para colocar icones no projeto, possivel abrir um plugin pra ver os icones
+
+* yarn add react-router-dom   : para criar as rotas com react na pasta routes app.routes.tsx...
+* yarn add @types/react-router-dom -D   : comando necessario instalar a tipagem para typescript usando react-router-dom acima
+
+* yarn add uuidv4   : dependência para gerar id aleatoriamente de forma correta
+
+* yarn add react-countup   :dependência faz um efeito de os numeros subirem até valor de acordo apenas um efeito bonito
+
+* yarn add recharts   :dependência para fazer os graficos com react
+* yarn add @types/recharts   :em seguida no terminal instalar as tipagens do recharts
+
++++++++extenção vs-code++++++++++++++
+vscode-styled-components   : ajuda a o codigo reconhecer o css ou text 
+
++++++++configuraçoes vscode++++++++++++++++++++++++++
+* File + preferences + settings + open settings json q fica a sua direita no topo um pequeno simbolo de arquivo com setinha girando + coloca "explorer.compactFolders": false,
+
++++++++++++extras+++++++++++
+* pesquisa por emoji html para encontrar emojis
+
++++++++++++criar pasta e arquivo ao mesmo tempo+++++++++++++++++++++
+nomedapasta/index.tsx   : ao criar um arquivo e pasta nova coloca nomedapasta/nomedoarquivo.js ou  .tsx e aperta enter
+
++++++++++++++++++++++
+* baixar responsively para ver varios formatos para celular pc e outros facilitando layout no browser
+
++++++++++++++++++
+* yarn : baixar todas as dependencias do projeto
+* yarn start  : rodar o projeto
+
+/**/
+<!---->
+//
+{/**/}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
